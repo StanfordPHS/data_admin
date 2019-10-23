@@ -6,4 +6,4 @@ Background In 2016, Stanford University received a grant from the Sloan Foundati
 
 If you decide to use these materials, please include an acknowledgement. Suggested language is below:
 
-Acknowledgement: The administrative materials for this [academic] data center were made possible by a generous grant from the Sloan Foundation. They were developed by the Stanford Center for Population Health Sciences and a legal fellow at the Stanford School of Law.
+Acknowledgement: The administrative materials for this [academic] data center were made possible by a generous grant from the Alfred P Sloan Foundation. They were developed by the Stanford Center for Population Health Sciences and a legal fellow at the Stanford School of Law.
